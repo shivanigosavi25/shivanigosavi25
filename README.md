@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shivanigosavi25
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning B.Tech In Computer Science 
+- 👋 Hi, I’m @shivanigosavi25.
+- 🌱 I’m currently learning B.Tech In 
+     Computer Science.
 
 
 <!---
