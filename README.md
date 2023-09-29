@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shivanigosavi25.
-- 🌱 I’m currently learning B.Tech In 
-     Computer Science.
+  
 
 
 <!---
